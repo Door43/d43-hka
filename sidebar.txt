@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hka:home|Door43 (hka)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hka|d43-hka repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hka/archive/master.zip|d43-hka.zip]]
+
+**Recent Changes**
+{{changes>ns = hka}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hka|Ethnologue data]]
+
